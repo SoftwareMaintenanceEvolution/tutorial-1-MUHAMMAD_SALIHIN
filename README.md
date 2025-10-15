@@ -10,18 +10,6 @@ maintaining and evolving software while improving my understanding of real-world
 ![My Image](sal2.jpg)  <!-- Link to the uploaded image -->
 
 
-## GitHub Profile
-
-You can view my personalized GitHub profile https://github.com/Vambot07
-
-[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mhd_slhin)
-
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/muhd-salihin-3106802a2/)
-
-- 📫 &nbsp; **How to reach me**: catch and follow me from the above links 👆; also, follow me here.
-
-- ⚡ &nbsp; **Fun fact**: I love 🐍, 🐜, 🐝, and ☕️.
-
 ## 🧠 Skills & Tools  
 
 ### 💻 Programming Languages  
@@ -45,6 +33,17 @@ You can view my personalized GitHub profile https://github.com/Vambot07
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
+
+## GitHub Profile
+You can view my personalized GitHub profile https://github.com/Vambot07
+
+[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mhd_slhin)
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/muhd-salihin-3106802a2/)
+
+- 📫 &nbsp; **How to reach me**: catch and follow me from the above links 👆; also, follow me here.
+
+- ⚡ &nbsp; **Fun fact**: I love 🐍, 🐜, 🐝, and ☕️.
 
 > _“Evolving software isn’t just about changing code — it’s about improving the way we think, design, and deliver.”_  
 
