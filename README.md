@@ -9,11 +9,16 @@ maintaining and evolving software while improving my understanding of real-world
 
 ![My Image](sal2.jpg)  <!-- Link to the uploaded image -->
 
+
 ## GitHub Profile
 
 You can view my personalized GitHub profile https://github.com/Vambot07
 
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mhd_slhin)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/muhd-salihin-3106802a2/))
-[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.m.taman.7)
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/muhd-salihin-3106802a2/)
+
+- 📫 &nbsp; **How to reach me**: catch and follow me from the above links 👆; also, follow me here.
+
+- ⚡ &nbsp; **Fun fact**: I love 🐍, 🐜, 🐝, and ☕️.
 
